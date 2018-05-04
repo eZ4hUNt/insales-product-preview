@@ -1,6 +1,6 @@
 **Скрипт "Предпросмотр товара в модальном окне"**
 ===============================
-![Предпросмотр](https://trello-attachments.s3.amazonaws.com/5ae089f16f002e86ecd7912f/5aeb09ad1663c68f5e871187/67d1b5c8d21e5dfbe11fdec69d1c6204/загружено_(2).png)
+![Предпросмотр](https://raw.githubusercontent.com/eZ4hUNt/insales-product-preview/master/preview.png)
 
 **Как использовать**
 ===============================
